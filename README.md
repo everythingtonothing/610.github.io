@@ -8,7 +8,7 @@ https://iridescent-610.github.io/
 
 ## 首页截图
 
-![image-20191107174253794](C:\Users\10052\AppData\Roaming\Typora\typora-user-images\image-20191107174253794.png)
+![封面](C:\Users\10052\Desktop\610.github.io\img\封面.png)
 
 ## 大佬的教程
 
