@@ -64,8 +64,8 @@ gitalk:
   clientID: 99ecf1fdc9b7e357ebb7                            #生成的clientID
   clientSecret: a866f00709e418ffd35d9986e130ff7f01a3cba2    #生成的clientSecret
   repo: 610.github.io    #仓库名称
-  owner: everythingtonothing    # github用户名
-  admin: everythingtonothing
+  owner: iridescent-610    # github用户名
+  admin: iridescent-610
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
 
