@@ -1,11 +1,11 @@
 # Site settings | 网站设置
-title: 610
+title: 610的博客
 SEOTitle: 610的博客 | 610
 header-img: img/home-bg-he.png
 email: liuyilin2016@qq.com
 description: "610的博客"
 keyword: "610, 610的博客, liuyilin"
-url: "http://610.github.io"          # your host, for absolute URL
+url: "https://everythingtonothing.github.io/610.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/everythingtonothing/610.github.io" #code repository | 代码仓库
 
@@ -99,8 +99,9 @@ friends: [
     },{
         title: "知乎·610",
         href: "https://www.zhihu.com/people/iridescent"
-    },{
-        title: "GitBook·RainbomSea",
-        href: ""
     }
+    # ,{
+    #     title: "",
+    #     href: ""
+    # }
 ]
