@@ -90,16 +90,16 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "GitHub·610",
-        href: "http://610.github.io"
-    },{
-        title: "CSDN·610",
-        href: "https://blog.csdn.net/qq_19596029"
-    },{
-        title: "知乎·610",
-        href: "https://www.zhihu.com/people/iridescent"
-    }
+    # {
+    #     title: "GitHub·610",
+    #     href: "http://iridescent-610.github.io"
+    # },{
+    #     title: "CSDN·610",
+    #     href: "https://blog.csdn.net/qq_19596029"
+    # },{
+    #     title: "知乎·610",
+    #     href: "https://www.zhihu.com/people/iridescent"
+    # }
     # ,{
     #     title: "",
     #     href: ""
