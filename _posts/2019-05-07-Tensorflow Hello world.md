@@ -3,7 +3,7 @@ layout:     post
 title:      Tensorflow Hello World
 subtitle:   谷歌机器学习速成课程之Tensorflow Hello World
 date:       2019-05-07
-author:     RainbomSea
+author:     iridescent
 header-img: img/post-web.jpg
 catalog: true
 tags:
