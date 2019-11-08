@@ -61,8 +61,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    # 是否开启Gitalk评论
-  clientID: 99ecf1fdc9b7e357ebb7                            #生成的clientID
-  clientSecret: a866f00709e418ffd35d9986e130ff7f01a3cba2    #生成的clientSecret
+  clientID: e281ae32f17d00d08c9f                            #生成的clientID
+  clientSecret: bed0f74151256d1465807556056791d53c8628cb    #生成的clientSecret
   repo: iridescnet-610.github.io    #仓库名称
   owner: iridescent-610    # github用户名
   admin: iridescent-610
@@ -93,11 +93,11 @@ friends: [
     {
         title: "GitHub·610",
         href: "https://github.com/iridescent-610"
-    }
+    },
     {
         title: "GitHub·WITACM学习指南",
         href: "https://github.com/IvyHole/WITCL"
-    }
+    },
     {
         title: "WITACM",
         href: "https://witacm.com"
