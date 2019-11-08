@@ -63,7 +63,7 @@ gitalk:
   enable: true    # 是否开启Gitalk评论
   clientID: e281ae32f17d00d08c9f                            #生成的clientID
   clientSecret: bed0f74151256d1465807556056791d53c8628cb    #生成的clientSecret
-  repo: personal_blog    #仓库名称
+  repo: iridescnet-610.github.io    #仓库名称
   owner: iridescent-610    # github用户名
   admin: iridescent-610
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
