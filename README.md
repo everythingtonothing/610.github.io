@@ -8,7 +8,7 @@ https://iridescent-610.github.io/
 
 ## 首页截图
 
-![封面](\img\封面.png)
+![封面](/img/home.png)
 
 ## 大佬的教程
 
