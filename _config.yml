@@ -101,14 +101,11 @@ friends: [
     {
         title: "WITACM",
         href: "https://witacm.com"
+    },
+    {
+        title: "毕业设计-新闻系统",
+        href: "http://www.liuyilin.top"
     }
-    # ,{
-    #     title: "CSDN·610",
-    #     href: "https://blog.csdn.net/qq_19596029"
-    # },{
-    #     title: "知乎·610",
-    #     href: "https://www.zhihu.com/people/iridescent"
-    # }
     # ,{
     #     title: "",
     #     href: ""
