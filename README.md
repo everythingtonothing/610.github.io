@@ -4,7 +4,7 @@
 
 ## 网站地址
 
-https://iridescent-610.github.io/
+https://liuyilin.top/
 
 ## 首页截图
 
