@@ -91,6 +91,10 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "毕业设计-新闻系统",
+        href: "http://www.liuyilin.top"
+    },
+    {
         title: "GitHub·610",
         href: "https://github.com/iridescent-610"
     },
@@ -101,11 +105,7 @@ friends: [
     {
         title: "WITACM",
         href: "https://witacm.com"
-    },
-    {
-        title: "毕业设计-新闻系统",
-        href: "http://www.liuyilin.top"
-    }
+    }  
     # ,{
     #     title: "",
     #     href: ""
