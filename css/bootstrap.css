@@ -1413,7 +1413,6 @@ ol ol {
   list-style: none;
 }
 .list-inline > li {
-  display: block;
   padding-right: 5px;
   padding-left: 5px;
 }
