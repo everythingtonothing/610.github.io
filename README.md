@@ -1,7 +1,5 @@
 # iridescent-610.github.io
 
-> 复制的大佬的模板， 页面自己写是不可能的，这辈子都不可能的（真香.gif）
-
 ## 网站地址
 
 https://liuyilin.top/
